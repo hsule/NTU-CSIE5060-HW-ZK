@@ -3,6 +3,8 @@
 1. Answer your questions in **answer sheet** markdown file.
 2. If you're curious of more zk background knowledge, refer to https://zk-learning.org/
 3. Watch Level 1 in this video: https://www.youtube.com/watch?v=fOGdb1CTu5c&pp=ygUcd2hhdCBpcyB6ZXJvIGtub3dsZWdlIHByb29mIA%3D%3D
+4. 最下面的註解是會被讀取的，格式要照那個格式
+5. 有同學反應第二題會遇到 Fetch error 這個問題我沒有遇過，也是第一次聽到，或許跟本地瀏覽器環境有關，有遇到的可以換個瀏覽器試試看
 
 ## question 1: 
 Refer to https://docs.circom.io/circom-language/constraint-generation/. For circom code below, use your own words to explain what is `<==`
